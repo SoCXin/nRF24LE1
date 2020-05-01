@@ -23,8 +23,18 @@
 
 支持JTAG调试器
 
-### [替换方案](https://github.com/SoCXin)
+### [开源榜](https://github.com/SoCXin)
 
-[nRF24LE1](https://github.com/SoCXin/nRF24LE1) 
+* [Dean Cording](https://github.com/DeanCording)
+* [Xiang Hou](https://github.com/fryefryefrye)
+
+### [开源项目](https://github.com/SoCXin)
+
+* [Open-Source-RKS](https://github.com/fryefryefrye/Open-Source-RKS)
+* [nRF24LE1_Example](https://github.com/DeanCording/nRF24LE1_Example)
+
+### [选型建议](https://github.com/SoCXin)
+
+[nRF24LE1](https://github.com/SoCXin/nRF24LE1) 可以看做nRF24L射频芯片的高度集成方案，应用于集成度高的场合，替换方案自然是解耦，MCU+nRF24L射频芯片
 
 ###  [SoC芯平台](http://SoC.Xin) 
